@@ -1,0 +1,35 @@
+p{
+    font-size: 20px;
+    text-align: center;
+}
+form{
+    padding-bottom: 20px;
+
+}
+html{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-image: url("images/pexels-pixabay-355748.jpg");
+}
+section{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.linkIcons{
+    max-block-size: 30px;
+}
+nav li {
+    text-align: center;
+}
+
+li a {
+    font-size: 30px;
+    color: #ff7bf0;
+}
+
+h1{
+    color: #ff7bf0;
+}
+.klappentext{
+    text-align: left;
+}
